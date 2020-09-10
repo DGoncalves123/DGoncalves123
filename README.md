@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=DGoncalves123)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **DGoncalves123/DGoncalves123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
